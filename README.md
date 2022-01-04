@@ -1,4 +1,4 @@
-This is a repository containing solutions to Leetcode problems in Python. Below is a table summarizing the problems.
+This is a repository containing solutions to Leetcode problems in Python. Below is a table summarizing some of the problems.
 
 | Number | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
